@@ -1,0 +1,9 @@
+.cta
+{
+    margin-top: 0;
+    height: 15vh;
+    width: 70%;
+    margin: auto;
+    background-color: rgba(23, 67, 212, 0.678);
+    text-align: center;
+}

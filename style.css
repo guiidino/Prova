@@ -1,0 +1,31 @@
+@import url(div1.css);
+@import url(div2.css);
+@import url(footer.css);
+
+header
+{
+    margin: auto;
+    width: 70%;
+    background-color: rgba(23, 67, 212, 0.678);
+    display: flex;
+}
+
+h1
+{
+margin-left: 50px;
+}
+nav
+{
+    margin-left: 60%;
+}
+nav, ol
+{
+    display:  flex;
+}
+
+li
+{
+    list-style: none;
+    margin-right: 10px;
+    margin-top: 20px;
+}

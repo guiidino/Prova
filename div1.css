@@ -1,0 +1,21 @@
+.hero-image
+{
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+    width: 70%;
+    border: 1px solid black;
+    margin: auto;
+    height: 35vh;
+
+}
+    
+h2
+{
+    color: rgb(66, 3, 3);
+    margin-top: 10vh ;
+}
+
+.hero-image, h2
+{
+    text-align: center;
+}

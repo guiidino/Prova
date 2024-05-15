@@ -1,0 +1,19 @@
+.features
+{
+    width: 70%;
+    margin: auto;
+    background-color: rgba(23, 67, 212, 0.678);
+}
+ul
+{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    
+}
+
+li
+{
+    margin: 1rem;
+    text-align: center;
+}
